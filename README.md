@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Manages CURD Operations on Customer Entity, you can refer 'first-app' backend code for the Spring Boot Rest API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
